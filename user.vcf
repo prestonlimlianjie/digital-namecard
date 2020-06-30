@@ -7,7 +7,6 @@ ORG:AV8 Group;
 TITLE:CEO
 EMAIL;type=INTERNET;type=WORK;type=pref:jon.anderson@av8-group.com
 TEL;type=WORK;type=VOICE:+07842519305
-item1.X-ABADR:sg
 item2.URL;type=pref:av8-group.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
