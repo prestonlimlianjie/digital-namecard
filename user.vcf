@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Ana;Maria;;;
+FN: Ștefan ANa Maria 
+ORG:MEDIST Imaging & POC;
+TITLE:Process Improvement Specialist – CRM & Digital Development, SalesForce & SAP Business One
+EMAIL;type=INTERNET;type=WORK;type=pref:anamaria.stefan@medist.ro
+TEL;type=WORK;type=VOICE:+40 731 550 032
+item1.ADR;type=WORK;type=pref:;;Ion Urdareanu no.34 \nfloor 1\, district 5;;;050688;Romania
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://medist-imaging.ro/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
