@@ -8,7 +8,7 @@ TITLE:Owner
 EMAIL;type=INTERNET;type=WORK;type=pref:michael@schrotenboerconsulting.com
 TEL;type=WORK;type=VOICE:(616) 366 3082
 item1.ADR;type=WORK;type=pref:;;2250 Anderson Drive SE\nGrand Rapids, MI 49506
-item1.X-ABADR:sg
+item1.X-ABADR:us
 item2.URL;type=pref:https://www.schrotenboerconsulting.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
