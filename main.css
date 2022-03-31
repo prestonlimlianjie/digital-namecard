@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #0062C3;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
@@ -178,6 +178,10 @@ img.profile-pic {
 	font-family: 'Muli', sans-serif;
 	color: white;
 	font-weight: 300;
+}
+
+.icon{
+	filter: brightness(0) saturate(100%) invert(21%) sepia(68%) saturate(5759%) hue-rotate(200deg) brightness(90%) contrast(101%);
 }
 
 @media screen and (max-width: 600px) {
